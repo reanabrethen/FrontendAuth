@@ -1,0 +1,11 @@
+.movie-image {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 25px;
+}
+
+.movie-detail{
+    display: block;
+    text-align: center;
+}
